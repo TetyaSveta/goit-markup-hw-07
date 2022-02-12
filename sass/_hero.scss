@@ -1,5 +1,5 @@
 .hero {
-	background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero\bgr.jpg);
+	background-image: linear-gradient(rgba(47, 48, 58, 0.4), rgba(47, 48, 58, 0.4)), url(../images/hero-bgr.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -32,7 +32,6 @@
 	border: 1px var(--accent-color);
 	border-radius: 4px;
 	cursor: pointer;
-
 	min-width: 200px;
 	min-height: 50px;
 	margin-top: 30px;
